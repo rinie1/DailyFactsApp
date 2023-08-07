@@ -42,9 +42,9 @@ MDScreen:
             MDNavigationDrawerMenu:
 
                 MDNavigationDrawerHeader:
-                    title: "Header title"
+                    title: "DailyFacts"
                     title_color: "#4a4939"
-                    text: "Header text"
+                    text: "Меню"
                     spacing: "4dp"
                     padding: "12dp", 0, 0, "56dp"
 
